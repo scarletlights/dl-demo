@@ -4,4 +4,9 @@ class Foo {
 	{
 		return true;
 	}
+
+	public getSquare(int side)
+	{
+		return side*side;
+	}
 }

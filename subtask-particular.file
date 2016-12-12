@@ -1,3 +1,7 @@
 public class Subtask {
 
+	public static void main(String[] args)
+	{
+		return true;
+	}
 }

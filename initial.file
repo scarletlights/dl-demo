@@ -4,4 +4,9 @@ class Foo {
 	{
 		return true;
 	}
+
+	public boolean isNull()
+	{
+		return false;
+	}
 }
